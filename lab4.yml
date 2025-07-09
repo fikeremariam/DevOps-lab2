@@ -1,0 +1,8 @@
+name: DevOps Lab
+version: 1.0
+tags:
+  -yaml
+  -devops
+  -ci/cd
+is_active: true
+description: "this is a simple lab to practice YAML."

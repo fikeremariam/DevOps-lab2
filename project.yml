@@ -1,0 +1,12 @@
+project_name: AwesomeApp
+version: 2.3.1
+Authors: [alice, bob, charlie]
+Release_status: true
+Enviroments:
+  - name: dev
+    url: dev.example.com
+  - name: staging
+    url: staging.example.com
+  - name: production
+    url: production.example.com
+    
